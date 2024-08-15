@@ -9,7 +9,7 @@ export default {
 </script>
 
 <template>
-  <main>
+  <main class="p-4 m-4 md:mx-36">
     <Header />
   </main>
 </template>
